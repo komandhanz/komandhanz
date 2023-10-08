@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/mr.sadiqin/" target="_blank" rel="noreferrer"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
-<a href="https://twitter.com/lee_dhanz/" target="_blank" rel="noreferrer"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
-<a href="https://stackoverflow.com/users/22706518/komandhanz" target="_blank" rel="noreferrer"> ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) </a>
-<a href="https://www.hackerrank.com/komandhanz" target="_blank" rel="noreferrer"> ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
+<a href="https://www.instagram.com/mr.sadiqin/" target="_blank" rel="noreferrer"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=black) </a>
+<a href="https://twitter.com/lee_dhanz/" target="_blank" rel="noreferrer"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=black) </a>
+<a href="https://stackoverflow.com/users/22706518/komandhanz" target="_blank" rel="noreferrer"> ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=black) </a>
+<a href="https://www.hackerrank.com/komandhanz" target="_blank" rel="noreferrer"> ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black) </a>
 
 </div>
 
