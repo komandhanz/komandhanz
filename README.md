@@ -13,4 +13,3 @@
 ###  🌱 I'm currently learning not to open many tabs in the browser
 <p align="center">
 <a href="http://cliparts.co/clipart/2423198" title="Image from cliparts.co"><img src="http://cliparts.co/cliparts/BTg/E5M/BTgE5MByc.gif" width="200" alt="stick people animation - group picture, image by tag ..." /></a> -->
-
